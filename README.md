@@ -6,22 +6,22 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-## Step1:
+### Step1:
 Import the necessary libraries and read the original image and save it a image variable.
 <br>
 <br>
 
-## Step2:
+### Step2:
 Translate the image using 32-bit floating matrix to populate the pixel data. change the values to preference in the 3rd element of the 1st and 2nd row of the identity matrix to translate. implement the matrix on the image using cv2.warpPerspective(). 
 <br>
 <br>
 
-## Step3:
+### Step3:
 Scale the image using 32-bit floating matrix to populate the pixel data. change the values to preference in the 1st element of the 1st row and 2nd element of the 2nd row of the identity matrix to scale. implement the matrix on the image using cv2.warpPerspective().
 <br>
 <br>
 
-## Step4:
+### Step4:
 Shear the image using 32-bit floating matrix to populate the pixel data. 
 Change the values to preference 
 - in the 2nd element of the 1st row of the identity matrix to shear on the x axis
@@ -31,7 +31,7 @@ Implement the matrix on the image using cv2.warpPerspective().
 <br>
 <br>
 
-## Step5:
+### Step5:
 Reflect the image using 32-bit floating matrix to populate the pixel data. 
 Change the values to  
 - row value of the original image in the 3rd element of the 2nd row with 2nd element as -1 of the identity matrix to reflect along the x axis
@@ -41,7 +41,7 @@ Implement the matrix on the image using cv2.warpPerspective().
 <br>
 <br>
 
-## Step 6:
+### Step 6:
 Rotate the image by implementing the preferred angle value using np.radians().
 
 Implement the matrix values as
@@ -56,12 +56,12 @@ Implement the matrix on the image using cv2.warpPerspective().
 <br>
 <br>
 
-## Step 7:
+### Step 7:
 Crop the image by taking a specific range of rows and columns from the input image.
 <br>
 <br> 
 
-## Step 8:
+### Step 8:
 Display all the Transformed images.
 <br>
 <br>
