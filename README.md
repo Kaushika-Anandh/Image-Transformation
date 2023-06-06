@@ -139,15 +139,6 @@ cv2.imshow("cropped image",crop_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
 #### i)Image Translation
