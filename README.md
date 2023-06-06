@@ -139,6 +139,11 @@ cv2.imshow("cropped image",crop_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 #### i)Image Translation
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/1.PNG" width="370" height="300">
