@@ -144,26 +144,38 @@ cv2.destroyAllWindows()
 **i)Image Translation**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/1.PNG" width="370" height="300">
+<br>
+<br>
 
 **ii) Image Scaling**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/2.PNG" width="370" height="300">
+<br>
+<br>
 
 **iii)Image shearing**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/3.PNG" width="670" height="320">
+<br>
+<br>
 
 **iv)Image Reflection**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/4.PNG" width="670" height="410">
+<br>
+<br>
 
 **v)Image Rotation**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/5.PNG" width="390" height="390">
+<br>
+<br>
 
 **vi)Image Cropping**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/6.PNG" width="390" height="410">
+<br>
+<br>
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
