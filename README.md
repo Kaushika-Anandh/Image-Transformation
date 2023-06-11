@@ -23,7 +23,7 @@ Exp.No : 05
 &emsp;
 Date : 05.04.2023 
 <br>
-# Image-Transformation
+# Image Transformation
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
