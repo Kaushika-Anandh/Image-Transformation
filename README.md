@@ -141,6 +141,11 @@ cv2.destroyAllWindows()
 ```
 
 ## Output:
+<br>
+<br>
+<br>
+<br>
+
 **i)Image Translation**
 
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/1.PNG" width="370" height="300">
