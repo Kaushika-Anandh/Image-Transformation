@@ -141,22 +141,22 @@ cv2.destroyAllWindows()
 ```
 
 ## Output:
-#### i)Image Translation
+**i)Image Translation**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/1.PNG" width="370" height="300">
 
-#### ii) Image Scaling
+**ii) Image Scaling**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/2.PNG" width="370" height="300">
 
-#### iii)Image shearing
+**iii)Image shearing**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/3.PNG" width="670" height="320">
 
-#### iv)Image Reflection
+**iv)Image Reflection**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/4.PNG" width="670" height="410">
 
-#### v)Image Rotation
+**v)Image Rotation**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/5.PNG" width="390" height="390">
 
-#### vi)Image Cropping
+**vi)Image Cropping**
 <img src="https://github.com/Kaushika-Anandh/Image-Transformation/blob/main/6.PNG" width="390" height="410">
 
 ## Result: 
